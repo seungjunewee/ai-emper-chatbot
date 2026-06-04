@@ -1,1 +1,9 @@
-GEMINI_API_KEY=여기에_Gemini_API_KEY를_넣으세요
+{
+  "name": "ai-emper-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
